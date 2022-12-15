@@ -1,13 +1,11 @@
 {
   "name": "Simple-JavaScript-for-React",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "repository": "git@github.com:Tona-Mangobyte/Simple-JavaScript-for-React.git",
   "author": "Tona <tona@mango-byte.com>",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {
-    "@babel/core": "^7.20.5",
-    "@babel/node": "^7.20.5"
-  }
+  "devDependencies": {}
 }
